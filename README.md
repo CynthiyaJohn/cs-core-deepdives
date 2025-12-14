@@ -24,8 +24,13 @@ Each topic includes:
 More topics will be added incrementally.
 
 ---
+## Code Demonstration
+A simple Java program is included to demonstrate:
+- A thread executing within the same process
+- A separate OS-level process started using ProcessBuilder
 
 ## Goal
 
 Build strong fundamentals through consistent, high-quality learning
 rather than rushed or superficial projects.
+
